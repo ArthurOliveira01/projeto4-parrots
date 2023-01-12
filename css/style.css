@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Roboto&display=swap');
+
+.pagina{
+    width: 100%;
+    display: flex;
+    
+}
+
+.titulo{
+    text-align: center;
+    width: 540px;
+    height: 63px;
+    margin: auto;
+}
+
+.titulo p{
+    font-family: Roboto;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 65.63px;
+    letter-spacing: -0.4%;
+}
+
+body{
+    background-color: #EEF9BF;;
+}
