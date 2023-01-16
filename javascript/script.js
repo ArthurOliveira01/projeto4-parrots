@@ -6,3 +6,26 @@ function inicioJogo(){
         alert('Quantidade de cartas inválida');
     }
 }
+
+function addCartas(){
+    let aux = 0;
+    while(aux < nCartas){
+        //adicionar lógica do código de adicionar as divs de carta
+    }
+}
+
+function turnCarta(){
+    //função que vira a carta
+}
+
+function checkMatch(){
+    //Verificar se as cartas quando comparadas possuem o mesmo gif, caso possuirem, se mantém viradas e é contabilizada uma jogada, caso sejam diferentes elas viram de novo e é contabilizada a jogada
+}
+
+function timer(){
+    //contabiliza em quanto tempo o jogador finaliza o jogo
+}
+
+function win(){
+    //função que verifica se a quantidade de acertos é o suficiente para encerrar o jogo, caso seja encerre o jogo e retorne a mensagem de em quantas jogadas, quanto tempo o jogador demora para finalizar o jogo, 
+}
